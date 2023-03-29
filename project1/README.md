@@ -7,6 +7,7 @@ tips：不懂就google
 1.任务：基于bert模型对清华新闻数据集进行文本分类任务
 
 2.参考：<u>[How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)</u>
+
 3.实现要求：torch
 
 4.数据集地址：https://thunlp.oss-cn-qingdao.aliyuncs.com/THUCNews.zip
