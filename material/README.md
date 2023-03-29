@@ -43,7 +43,7 @@
 - （♥♥♥♥♥）Github Repo：<u>[NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)</u>
 - （♥♥♥）Online Video：<u>[李宏毅2020深度学习与人类语言处理](https://www.bilibili.com/video/BV1RE411g7rQ)</u> 
 (this online video contains a lot of techniques in the field of speech which we may not use for. But it contains an introduction to many Pre-trained Language Model. )
--  （♥♥♥）Online Video：<u>[刘知远团队大模型入门到实战](https://www.bilibili.com/video/BV1UG411p7zv?p=1)</u>
+-  （♥♥♥♥♥）Online Video：<u>[刘知远团队大模型入门到实战](https://www.bilibili.com/video/BV1UG411p7zv?p=1)</u>
 - （♥♥♥♥♥）Paper：<u>[Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)</u>
 *** 
 # 4.如何写论文
