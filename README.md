@@ -8,6 +8,5 @@ Project1:预训练语言模型分类和生成任务
 
 Project2:多模态模型的图文检索任务
 
-Project3:基于大模型任务prompt设计
 
-Tips:纯文本方向需完成project1，多模态方向需完成project2，在完成project1或者project2的基础上选做project3
+Tips:纯文方向需要完成project1，可以在此基础上利用大模型（gpt4，LLaMA，PaLM等）进行优化，多模态方向需在完成project1的基础上完成project2
